@@ -2,7 +2,7 @@
 - 👀 I’m interested in Explainable AI
 - 🌱 I’m currently learning Spectral Graph Theory, Graph Neural Networks
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me [@hnaik](https://twitter.com/hnaik) [Twitter]
 
 <!---
 hnaik/hnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
